@@ -4,9 +4,6 @@ import com.jy.idgenerator.generator.SnowflakeIdGenerator;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-/**
- * @author wangyifan on 17-3-16.
- */
 @Service
 public class IdGeneratorService {
 

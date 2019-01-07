@@ -6,9 +6,6 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-/**
- * Created by ivaneye on 17-3-16.
- */
 @RestController("/generate")
 public class IdGeneratorController {
 
